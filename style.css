@@ -110,8 +110,8 @@ nav a{
     color:white;
 }
 
-nav a:hover{
-    color:#5588db;
+p:hover{
+    background-color:white;
 }
 
 .up {
@@ -130,4 +130,37 @@ nav a:hover{
     text-align: center;
     padding-top: 15px;
     transition: all 0.3s ease-in-out;
+}
+
+h3 {
+    background-color: black;
+}
+
+h2 {
+    background-color: black;
+}
+
+p {
+    font-family: Space Mono, serif;
+}
+
+ol {
+    font-family: Nova Oval, serif;
+}
+
+h3 {
+    text-decoration: underline
+}
+
+h1:hover{
+    background-color:#ff0066;
+}
+
+nav:hover{
+    background-color:#ff9999;
+}
+
+p:hover{
+    color:black;
+}
 }
