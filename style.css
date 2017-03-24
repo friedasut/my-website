@@ -162,5 +162,9 @@ nav:hover{
 
 p:hover{
     color:black;
-}
+    }
+
+h3:hover{
+    background-color:aqua;
+    color:black;
 }
